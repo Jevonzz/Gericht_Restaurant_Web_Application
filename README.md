@@ -1,4 +1,4 @@
-#Web Application Preview
+# Web Application Preview
 ![image](https://github.com/Jevonzz/Restaurant_Web_Application/assets/109259972/4eb5af9e-8c8b-4f7c-a2ae-441242d46513)
 
 # Getting Started with Create React App
