@@ -27,9 +27,19 @@
   margin-left: 1rem;
 }
 
+.app__awards-img {
+  width: 146px;
+  height: 146px;
+  margin: 2rem;
+}
+
 @media screen and (min-width: 1900px) {
   .app__laurels_awards-card {
     min-width: 390px;
+  }
+
+  .app__awards-img {
+    top: -200px;
   }
 }
 
